@@ -1,0 +1,23 @@
+---
+title: "Welcome to my website"
+author: "Jonathan Chen"
+date: "2026-09-15"
+format:
+    html:
+        theme: journal
+        toc: true
+---
+# "Hello, world!"
+Welcome to my Quarto website.
+
+# "About, Me"
+I'm currently a student at Boston University studying business analytics.
+
+## "links"
+my github profile: <https://github.com/jchenbu>
+
+
+
+
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
