@@ -5,7 +5,7 @@ toc: false
 
 :::: {.hero}
 ::: {.hero-photo}
-![](profile.jpg)
+![](images/profile.jpg)
 :::
 
 ::: {.hero-text}
