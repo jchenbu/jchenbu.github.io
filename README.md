@@ -1,2 +1,3 @@
 # jchenbu.github.io
-Hello! This is my GitHub Pages repo for AD688
+This is my live website : 
+https://jchenbu.github.io/ 
