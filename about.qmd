@@ -1,5 +1,6 @@
 ---
-title: "About"
+title: "About me"
 ---
 
 About this site
+```{python} from pyspark.sql import SparkSession spark = SparkSession.builder.appName("AD688Demo").getOrCreate() data = [("Python", 5), ("Spark", 4), ("Quarto", 3), ("AWS", 5)] columns = ["Topic", "Rating"] df = spark.createDataFrame(data, columns) df.show() ```

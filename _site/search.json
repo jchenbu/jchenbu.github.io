@@ -2,22 +2,36 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About me",
     "section": "",
-    "text": "About this site"
+    "text": "About this site cjwgsltn from pyspark.sql import SparkSession spark = SparkSession.builder.appName(\"AD688Demo\").getOrCreate() data = [(\"Python\", 5), (\"Spark\", 4), (\"Quarto\", 3), (\"AWS\", 5)] columns = [\"Topic\", \"Rating\"] df = spark.createDataFrame(data, columns) df.show()"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to my website",
+    "title": "Jonathan Chen",
     "section": "",
-    "text": "Welcome to my Quarto website."
+    "text": "I am current student in applied business analytics at University of Boston. I have a strong interest in data analysis and the intersection of technology and business. My other intrests besides this major is I enjoy playing sports such as tennis and basketball. For my career goals This website serves as a portfolio to showcase my projects and skills."
   },
   {
-    "objectID": "index.html#links",
-    "href": "index.html#links",
-    "title": "Welcome to my website",
-    "section": "“links”",
-    "text": "“links”\nmy github profile: https://github.com/jchenbu\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "objectID": "index.html#background",
+    "href": "index.html#background",
+    "title": "Jonathan Chen",
+    "section": "",
+    "text": "I am current student in applied business analytics at University of Boston. I have a strong interest in data analysis and the intersection of technology and business. My other intrests besides this major is I enjoy playing sports such as tennis and basketball. For my career goals This website serves as a portfolio to showcase my projects and skills."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Jonathan Chen",
+    "section": "Skills",
+    "text": "Skills\n\nProgramming Languages: Python, R, SQL\nData Analysis: Pandas, NumPy, Matplotlib, Seaborn\nMultitasking different tasks\nCommunication and collaboration"
+  },
+  {
+    "objectID": "index.html#career-goals",
+    "href": "index.html#career-goals",
+    "title": "Jonathan Chen",
+    "section": "Career Goals",
+    "text": "Career Goals\nMy career goals is that I hope I can be able to contribute to the field of data analysis and make a positive impact in the business world. I am particularly interested in leveraging data to drive decision-making and improve business outcomes. I am also passionate about continuous learning and staying up-to-date with the latest trends and technologies in the field of data analysis. I believe taking this route helps with my mission of helping others and making a positive impact in the world. I am excited to embark on this journey and look forward to the opportunities that lie ahead."
   }
 ]

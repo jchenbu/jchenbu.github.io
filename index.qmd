@@ -1,22 +1,25 @@
 ---
-title: "Welcome to my website"
-author: "Jonathan Chen"
-date: "2026-09-15"
-format:
-    html:
-        theme: journal
-        toc: true
+title: "Jonathan Chen"
+image: profile.jpg
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jonathanchen12
+    - icon: github
+      text: GitHub
+      href: https://github.com/jchenbu
 ---
 
-# "Hello, world!"
-Welcome to my Quarto website.
+## Background
+I am current student in applied business analytics at University of Boston. I have a strong interest in data analysis and the intersection of technology and business. My other intrests besides this major is I enjoy playing sports such as tennis and basketball. For my career goals  This website serves as a portfolio to showcase my projects and skills. 
 
-# "About, Me"
-I'm currently a student at Boston University studying business analytics.
+## Skills
+- Programming Languages: Python, R, SQL
+- Data Analysis: Pandas, NumPy, Matplotlib, Seaborn 
+- Multitasking different tasks 
+- Communication and collaboration 
 
-## "links"
-my github profile: <https://github.com/jchenbu>
-
-
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Career Goals
+My career goals is that I hope I can be able to contribute to the field of data analysis and make a positive impact in the business world. I am particularly interested in leveraging data to drive decision-making and improve business outcomes. I am also passionate about continuous learning and staying up-to-date with the latest trends and technologies in the field of data analysis. I believe taking this route helps with my mission of helping others and making a positive impact in the world. I am excited to embark on this journey and look forward to the opportunities that lie ahead.
