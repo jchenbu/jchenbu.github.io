@@ -1,0 +1,32 @@
+---
+title: "Contact"
+---
+
+I'm always glad to connect about analytics roles, internships, class projects, or anything on this site. Email is the fastest way to reach me, but you can also connect with me on LinkedIn or GitHub.
+
+<i class="bi bi-envelope"></i> **Email:** 
+[jonathanchen2001@gmail.com](jchenbu@bu.edu)
+
+<i class="bi bi-linkedin"></i> **LinkedIn:** 
+[linkedin.com/in/jonathanchen12](https://www.linkedin.com/in/jonathanchen12)
+
+<i class="bi bi-github"></i> **GitHub:** 
+[github.com/jchenbu](https://github.com/jchenbu)
+
+## Send me a message
+
+<form action="https://formspree.io/f/YOUR-FORM-ID" method="POST">
+  <div class="mb-3">
+    <label for="name" class="form-label">Name</label>
+    <input type="text" class="form-control" id="name" name="name" required>
+  </div>
+  <div class="mb-3">
+    <label for="email" class="form-label">Email</label>
+    <input type="email" class="form-control" id="email" name="email" required>
+  </div>
+  <div class="mb-3">
+    <label for="message" class="form-label">Message</label>
+    <textarea class="form-control" id="message" name="message" rows="5" required></textarea>
+  </div>
+  <button type="submit" class="btn btn-primary">Send</button>
+</form>

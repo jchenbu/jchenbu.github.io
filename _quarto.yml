@@ -2,20 +2,19 @@ project:
   type: website
 
 website:
-  title: "jchenbu.github.io"
+  title: "Jonathan Chen"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: About Me
+        href: index.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: CV
+        href: cv.qmd
+      - text: Contact
+        href: contact.qmd
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
-    toc: true
-
-
-
