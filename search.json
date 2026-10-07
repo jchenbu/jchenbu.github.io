@@ -4,14 +4,7 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "I’m always glad to connect about analytics roles, internships, class projects, or anything on this site. Email is the fastest way to reach me, but you can also connect with me on LinkedIn or GitHub.\nEmail: jonathanchen2001@gmail.com\nLinkedIn: linkedin.com/in/jonathanchen12\nGitHub: github.com/jchenbu"
-  },
-  {
-    "objectID": "contact.html#send-me-a-message",
-    "href": "contact.html#send-me-a-message",
-    "title": "Contact",
-    "section": "Send me a message",
-    "text": "Send me a message\n\n\n&lt;label for=\"name\" class=\"form-label\"&gt;Name&lt;/label&gt;\n&lt;input type=\"text\" class=\"form-control\" id=\"name\" name=\"name\" required&gt;\n\n\n&lt;label for=\"email\" class=\"form-label\"&gt;Email&lt;/label&gt;\n&lt;input type=\"email\" class=\"form-control\" id=\"email\" name=\"email\" required&gt;\n\n\n&lt;label for=\"message\" class=\"form-label\"&gt;Message&lt;/label&gt;\n&lt;textarea class=\"form-control\" id=\"message\" name=\"message\" rows=\"5\" required&gt;&lt;/textarea&gt;\n\n\nSend"
+    "text": "I’m always glad to connect about analytics roles, internships, class projects, or anything on this site. Email is the fastest way to reach me, but you can also connect with me on LinkedIn or GitHub.\n Email: jonathanchen2001@gmail.com\n LinkedIn: linkedin.com/in/jonathanchen12\n GitHub: github.com/jchenbu"
   },
   {
     "objectID": "projects.html",
