@@ -1,24 +1,73 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About me",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "About this site jtczcoip from pyspark.sql import SparkSession spark = SparkSession.builder.appName(\"AD688Demo\").getOrCreate() data = [(\"Python\", 5), (\"Spark\", 4), (\"Quarto\", 3), (\"AWS\", 5)] columns = [\"Topic\", \"Rating\"] df = spark.createDataFrame(data, columns) df.show()"
+    "text": "I’m always glad to connect about analytics roles, internships, class projects, or anything on this site. Email is the fastest way to reach me, but you can also connect with me on LinkedIn or GitHub.\nEmail: jonathanchen2001@gmail.com\nLinkedIn: linkedin.com/in/jonathanchen12\nGitHub: github.com/jchenbu"
+  },
+  {
+    "objectID": "contact.html#send-me-a-message",
+    "href": "contact.html#send-me-a-message",
+    "title": "Contact",
+    "section": "Send me a message",
+    "text": "Send me a message\n\n\n&lt;label for=\"name\" class=\"form-label\"&gt;Name&lt;/label&gt;\n&lt;input type=\"text\" class=\"form-control\" id=\"name\" name=\"name\" required&gt;\n\n\n&lt;label for=\"email\" class=\"form-label\"&gt;Email&lt;/label&gt;\n&lt;input type=\"email\" class=\"form-control\" id=\"email\" name=\"email\" required&gt;\n\n\n&lt;label for=\"message\" class=\"form-label\"&gt;Message&lt;/label&gt;\n&lt;textarea class=\"form-control\" id=\"message\" name=\"message\" rows=\"5\" required&gt;&lt;/textarea&gt;\n\n\nSend"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A selection of my academic and personal work in business analysis and analytics."
+  },
+  {
+    "objectID": "projects.html#summit-state-brewing-feasibility-study",
+    "href": "projects.html#summit-state-brewing-feasibility-study",
+    "title": "Projects",
+    "section": "Summit State Brewing Feasibility Study",
+    "text": "Summit State Brewing Feasibility Study\nTeam consulting project, four members\nFinancial modeling Break-even analysis Sensitivity analysis Optimization PESTEL SWOT VRIO\n\n\n194% Projected ROI\n\n\n6.68 mo Time to break even\n\n\n$3.29M Median 3-year profit\n\n\nProblem. Summit State Brewing was weighing whether to open a microbrewery on Denver’s 16th Street Mall, a high-traffic but crowded craft beer market. The owner wanted a sustainable competitive advantage, ROI above 25%, and break-even within a year.\nApproach. Using a business simulation platform, we modeled three-year revenue, cost, and profit projections across marketing, finance, operations, technology, and HR, comparing scenarios to find the strongest combination of pricing, costs, and staffing.\nResult. My group recommended investing. The plan beat every one of the owner’s targets, and our sensitivity analysis showed that pricing drives profitability far more than cost increases do.\nMy role. I contributed to the organization and HR analysis. We designed a lean staffing structure and recommended lowering salary growth from 12% to 8% with performance-based incentives, which improved the break-even point and cut the revenue needed to break even by nearly $10,000.\n\n\n\n\n\n\nPESTEL analysis for the staffing strategy\n\n\n\n\n\n\n\nRisk heat map for the in-house water system\n\n\n\n\n\n\n\n\n\n\n\nNoteMore detail on the analysis\n\n\n\n\n\n\nRan a break-even analysis on $281,600 in annual fixed costs and a $5.15 contribution margin per pint, showing break-even at 54,680 pints per year, within production capacity\nTested seven variables in a sensitivity analysis, including wholesale and retail prices, material costs, and loan amount\nCompared three-year financial projections across candidate scenarios to select the strongest option on net profit growth\nScored operational risks by likelihood and severity to identify the highest-priority threats\n\n\n\n\nView the presentation (PDF)"
+  },
+  {
+    "objectID": "projects.html#personal-portfolio-website",
+    "href": "projects.html#personal-portfolio-website",
+    "title": "Projects",
+    "section": "Personal Portfolio Website",
+    "text": "Personal Portfolio Website\nTools: Quarto, Git, GitHub Pages, VS Code\nDesigned and built this website to present my academic work and professional background.\n\nBuilt a multi-page site in Quarto with custom navigation and theming\nManaged version control with Git and deployed through GitHub Pages\nOptimized images and layout for fast loading\n\nView the source on GitHub"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "I’m a graduate student in Applied Business Analytics at Boston University with a finance degree from the University at Buffalo. My background combines financial services experience from an internship at Northwestern Mutual and a customer service position as guest services for the US Open in 2025 and 2026. Also in my time when I was a undergraduate, I served as a Resident Advisor to new incoming students. In other extracurricular activities, I was president of the UB Wrestling Club, and vice president of the Student of Management Minority Alliance.\nDownload my résumé (PDF)"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n\n\n2024 to present Boston University\nM.S. in Applied Business Analytics\n\n\nGraduated 2023 University at Buffalo\nB.S. in Business Administration, concentration in Finance"
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "CV",
+    "section": "Experience",
+    "text": "Experience\n\n\nAug to Sep 2026 Guest Services, US Open\nI ensured I provided excellent customer service and resolved any issues that arose. I also helped with crowd control and safety measures, ensuring a smooth and enjoyable experience for all attendees. I also had the opportunity to work with a diverse group of people, including staff, volunteers, and spectators, which helped me develop my communication and teamwork skills. \n\n\nNovember 2022- May 2023 Office assistant, University at Buffalo Aided residents with questions and concerns, and assisted with administrative tasks such as phone calls, emails, and questions or concerns from residents.\n\n\nAug 2021 to May 2023 Resident Advisor, University at Buffalo\nManaged a floor of 26 residents, providing support and guidance to students in their academic and personal lives. I also organized events and activities to promote community building and engagement among residents. I was responsible for enforcing university policies and procedures, as well as responding to emergencies and crisis situations.\n\n\n\nJun to Aug 2022 Financial Advisor Intern, Northwestern Mutual\nI set up client meetings and worked alongside current financial advisors during these client meetings over the summer. I also had the opportunity to learn about financial planning and investment strategies, as well as gain insight into the day-to-day operations of a financial advisory firm."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Jonathan Chen",
     "section": "",
-    "text": "I am current student in applied business analytics at University of Boston. I have a strong interest in data analysis and the intersection of technology and business. My other intrests besides this major is I enjoy playing sports such as tennis and basketball. For my career goals This website serves as a portfolio to showcase my projects and skills."
+    "text": "Jonathan Chen Business analytics grad student with a finance background\nI’m pursuing my M.S. in Applied Business Analytics at Boston University, with a strong interest in data analysis and the intersection of technology and business.\nView my projects Download my résumé\n Email ·  LinkedIn ·  GitHub"
   },
   {
     "objectID": "index.html#background",
     "href": "index.html#background",
     "title": "Jonathan Chen",
-    "section": "",
-    "text": "I am current student in applied business analytics at University of Boston. I have a strong interest in data analysis and the intersection of technology and business. My other intrests besides this major is I enjoy playing sports such as tennis and basketball. For my career goals This website serves as a portfolio to showcase my projects and skills."
+    "section": "Background",
+    "text": "Background\nI am current student in applied business analytics at University of Boston. I have a strong interest in data analysis and the intersection of technology and business. My other intrests besides this major is I enjoy playing sports such as tennis and basketball. For my career goals This website serves as a portfolio to showcase my projects and skills."
   },
   {
     "objectID": "index.html#skills",
@@ -33,5 +82,12 @@
     "title": "Jonathan Chen",
     "section": "Career Goals",
     "text": "Career Goals\nMy career goals is that I hope I can be able to contribute to the field of data analysis and make a positive impact in the business world. I am particularly interested in leveraging data to drive decision-making and improve business outcomes. I am also passionate about continuous learning and staying up-to-date with the latest trends and technologies in the field of data analysis. I believe taking this route helps with my mission of helping others and making a positive impact in the world. I am excited to embark on this journey and look forward to the opportunities that lie ahead."
+  },
+  {
+    "objectID": "index.html#beyond-work",
+    "href": "index.html#beyond-work",
+    "title": "Jonathan Chen",
+    "section": "Beyond Work",
+    "text": "Beyond Work\nOutside of class, I enjoy playing sports, especially tennis. Also I have a strong intrest in automobiles. I enjoy attending auto events and car shows, where I can learn about the latest models and technologies. I also enjoy traveling to new places and experiencing different cultures. These activities help me maintain a healthy work-life balance and provide inspiration for my academic and professional pursuits.\n\n\n\n\n\n\nTennis\n\n\n\n\n\n\n\nAutomobiles\n\n\n\n\n\n\n\nTraveling"
   }
 ]
